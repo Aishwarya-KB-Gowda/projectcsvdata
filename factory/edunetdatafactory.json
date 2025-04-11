@@ -1,0 +1,9 @@
+{
+	"name": "edunetdatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a738eaf-ccab-47d5-b238-0b21dd6108ba",
+		"tenantId": "14b62d3a-0ee9-4f74-8406-b7732fa21b5d"
+	}
+}

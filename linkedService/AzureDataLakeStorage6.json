@@ -1,0 +1,12 @@
+{
+	"name": "AzureDataLakeStorage6",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://edunetproject.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENBQkZFMDNBLTY4OTEtNEJBMC05MEI4LTk3M0RDQTk3MTA2Ml80ZWZlZTk3Mi03MjcxLTQ3NjUtYmJiMi05YTE1ZmFhZTg4Y2EiDQp9"
+		}
+	}
+}
